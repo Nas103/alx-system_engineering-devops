@@ -1,4 +1,4 @@
-![Technical Issue Resolution](./image-asset.png)
+![Technical Issue Resolution](./R.png)
 
 # Issue Summary
 Duration of the Outage: The outage started at 12:45 AM and was debugged by 13:45 PM CAT(central African Time).
