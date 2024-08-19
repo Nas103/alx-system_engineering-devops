@@ -1,4 +1,4 @@
-![Technical Issue Resolution](./0x19-postmorten/image-asset.png)
+![Technical Issue Resolution](./image-asset.png)
 
 # Issue Summary
 Duration of the Outage: The outage started at 12:45 AM and was debugged by 13:45 PM CAT(central African Time).
@@ -55,4 +55,4 @@ _______________________________________________________________
 
 # This script ensures that the correct configuration is enabled and restarts Nginx to apply the changes.
 the flow diagram
-![Nginx Configuration Flow](./0x19-postmorten/R.png)
+![Nginx Configuration Flow](./chart.png)
